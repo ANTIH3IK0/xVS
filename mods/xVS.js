@@ -1,4 +1,4 @@
-// realistic_system.js - Global Realistic Lighting, Shadows, and Water Effects for ALL elements (including addons)
+// xVS.js - Global Realistic Lighting, Shadows, and Water Effects for ALL elements (including addons)
 // Features:
 // - Dynamic colored light propagation from fire, lights, hot pixels, etc.
 // - Realistic occlusion shadows (darker in crevices/caves), modulated by light intensity
